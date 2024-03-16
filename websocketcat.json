@@ -1,7 +1,7 @@
 {
   "name": "Websocket Cat",
   "symbol": "WSC",
-  "uri": "https://example.com/token/1",
+  "uri": "https://github.com/thezoltrex/wsc-image-repo/blob/main/websocketcat.json",
   "seller_fee_basis_points": 500,
   "fee_recipient": "FWpyYzRrS5Xfi59xfqce36ScfM76akrV9m4tvgrQwK42",
   "seller_fee_collection_address": "FWpyYzRrS5Xfi59xfqce36ScfM76akrV9m4tvgrQwK42",
@@ -9,7 +9,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://example.com/token/1/file",
+        "uri": "https://github.com/thezoltrex/wsc-image-repo/blob/main/websocketcat.json",
         "type": "text/plain"
       }
     ],
