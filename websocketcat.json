@@ -1,0 +1,24 @@
+{
+  "name": "Websocket Cat",
+  "symbol": "WSC",
+  "uri": "https://example.com/token/1",
+  "seller_fee_basis_points": 500,
+  "fee_recipient": "FWpyYzRrS5Xfi59xfqce36ScfM76akrV9m4tvgrQwK42",
+  "seller_fee_collection_address": "FWpyYzRrS5Xfi59xfqce36ScfM76akrV9m4tvgrQwK42",
+  "image": "https://github.com/thezoltrex/wsc-image-repo/blob/main/_11d61104-198e-4c16-a16b-d31ae8475ee0.jpeg",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://example.com/token/1/file",
+        "type": "text/plain"
+      }
+    ],
+    "category": "digital",
+    "creators": [
+      {
+        "address": "FWpyYzRrS5Xfi59xfqce36ScfM76akrV9m4tvgrQwK42",
+        "share": 100
+      }
+    ]
+  }
+}
